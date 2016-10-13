@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dota 2 Quiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="question_abaddon1">Abaddon\'s ultimate is called \"Borrowed Time.\"</string>
+    <string name="question_abaddon2">\"Mist Coil\" is a spell by Puck.</string>
+    
+    <string name="question_alchemist1">Alchemist can use Aghanim\'s Scepter to himself.</string>
+    <string name="question_alchemist2">Alchemist\'s spell, Acid Spray, deals Magical damage.</string>
+</resources>
