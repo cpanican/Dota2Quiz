@@ -7,9 +7,338 @@
     <string name="action_settings">Settings</string>
     <string name="next_question">Next</string>
 
+    <!-- All 6.88 Dota 2 Heroes are arranged in alphabetical order -->
+
     <string name="question_abaddon1">Abaddon\'s ultimate is called \"Borrowed Time.\"</string>
     <string name="question_abaddon2">\"Mist Coil\" is a spell by Puck.</string>
     
     <string name="question_alchemist1">Alchemist can use Aghanim\'s Scepter to himself.</string>
     <string name="question_alchemist2">Alchemist\'s spell, Acid Spray, deals Magical damage.</string>
+
+    <string name="question_appa1"></string>
+    <string name="question_appa2"></string>
+
+    <string name="question_antimage1"></string>
+    <string name="question_antimage2"></string>
+
+    <string name="question_arcwarden1"></string>
+    <string name="question_arcwarden2"></string>
+
+    <string name="question_axe1"></string>
+    <string name="question_axe2"></string>
+
+    <string name="question_bane1"></string>
+    <string name="question_bane2"></string>
+
+    <string name="question_batrider1"></string>
+    <string name="question_batrider2"></string>
+
+    <string name="question_beastmaster1"></string>
+    <string name="question_beastmaster2"></string>
+
+    <string name="question_bloodseeker1"></string>
+    <string name="question_bloodseeker2"></string>
+
+    <string name="question_bounty1"></string>
+    <string name="question_bounty2"></string>
+
+    <string name="question_brew1"></string>
+    <string name="question_brew2"></string>
+
+    <string name="question_bristle1"></string>
+    <string name="question_bristle2"></string>
+
+    <string name="question_brood1"></string>
+    <string name="question_brood2"></string>
+
+    <string name="question_centaur1"></string>
+    <string name="question_centaur2"></string>
+
+    <string name="question_ck1"></string>
+    <string name="question_ck2"></string>
+
+    <string name="question_chen1"></string>
+    <string name="question_chen2"></string>
+
+    <string name="question_clinkz1"></string>
+    <string name="question_clinkz2"></string>
+
+    <string name="question_clock1"></string>
+    <string name="question_clock2"></string>
+
+    <string name="question_cm1"></string>
+    <string name="question_cm2"></string>
+
+    <string name="question_ds1"></string>
+    <string name="question_ds2"></string>
+
+    <string name="question_dazzle1"></string>
+    <string name="question_dazzle2"></string>
+
+    <string name="question_dp1"></string>
+    <string name="question_dp2"></string>
+
+    <string name="question_distrup1"></string>
+    <string name="question_distrup2"></string>
+
+    <string name="question_doom1"></string>
+    <string name="question_doom2"></string>
+
+    <string name="question_dk1"></string>
+    <string name="question_dk2"></string>
+
+    <string name="question_drow1"></string>
+    <string name="question_drow2"></string>
+
+    <string name="question_earthspirit1"></string>
+    <string name="question_earthspirit2"></string>
+
+    <string name="question_earthshaker1"></string>
+    <string name="question_earthshaker2"></string>
+
+    <string name="question_et1"></string>
+    <string name="question_et2"></string>
+
+    <string name="question_ember1"></string>
+    <string name="question_ember2"></string>
+
+    <string name="question_ench1"></string>
+    <string name="question_ench2"></string>
+
+    <string name="question_enigma1"></string>
+    <string name="question_enigma2"></string>
+
+    <string name="question_void1"></string>
+    <string name="question_void2"></string>
+
+    <string name="question_gyro1"></string>
+    <string name="question_gyro2"></string>
+
+    <string name="question_huskar1"></string>
+    <string name="question_huskar2"></string>
+
+    <string name="question_invoker1"></string>
+    <string name="question_invoker2"></string>
+
+    <string name="question_io1"></string>
+    <string name="question_io2"></string>
+
+    <string name="question_jakiro1"></string>
+    <string name="question_jakiro2"></string>
+
+    <string name="question_jugg1"></string>
+    <string name="question_jugg2"></string>
+
+    <string name="question_kotl1"></string>
+    <string name="question_kotl2"></string>
+
+    <string name="question_kunkka1"></string>
+    <string name="question_kunkka2"></string>
+
+    <string name="question_legion1"></string>
+    <string name="question_legion2"></string>
+
+    <string name="question_lesh1"></string>
+    <string name="question_lesh2"></string>
+
+    <string name="question_lich1"></string>
+    <string name="question_lich2"></string>
+
+    <string name="question_lifestealer1"></string>
+    <string name="question_lifestealer2"></string>
+
+    <string name="question_lina1"></string>
+    <string name="question_lina2"></string>
+
+    <string name="question_lion1"></string>
+    <string name="question_lion2"></string>
+
+    <string name="question_ld1"></string>
+    <string name="question_ld2"></string>
+
+    <string name="question_luna1"></string>
+    <string name="question_luna2"></string>
+
+    <string name="question_lycan1"></string>
+    <string name="question_lycan2"></string>
+
+    <string name="question_magnus1"></string>
+    <string name="question_magnus2"></string>
+
+    <string name="question_medusa1"></string>
+    <string name="question_medusa2"></string>
+
+    <string name="question_meepo1"></string>
+    <string name="question_meepo2"></string>
+
+    <string name="question_mirana1"></string>
+    <string name="question_mirana2"></string>
+
+    <string name="question_morph1"></string>
+    <string name="question_morph2"></string>
+
+    <string name="question_naga1"></string>
+    <string name="question_naga2"></string>
+
+    <string name="question_natures1"></string>
+    <string name="question_natures2"></string>
+
+    <string name="question_necro1"></string>
+    <string name="question_necro2"></string>
+
+    <string name="question_ns1"></string>
+    <string name="question_ns2"></string>
+
+    <string name="question_nyx1"></string>
+    <string name="question_nyx2"></string>
+
+    <string name="question_ogre1"></string>
+    <string name="question_ogre2"></string>
+
+    <string name="question_omni1"></string>
+    <string name="question_omni2"></string>
+
+    <string name="question_oracle1"></string>
+    <string name="question_oracle2"></string>
+
+    <string name="question_od1"></string>
+    <string name="question_od2"></string>
+
+    <string name="question_pa1"></string>
+    <string name="question_pa2"></string>
+
+    <string name="question_pl1"></string>
+    <string name="question_pl2"></string>
+
+    <string name="question_phoenix1"></string>
+    <string name="question_phoenix2"></string>
+
+    <string name="question_puck1"></string>
+    <string name="question_puck2"></string>
+
+    <string name="question_pudge1"></string>
+    <string name="question_pudge2"></string>
+
+    <string name="question_pugna1"></string>
+    <string name="question_pugna2"></string>
+
+    <string name="question_qop1"></string>
+    <string name="question_qop2"></string>
+
+    <string name="question_razor1"></string>
+    <string name="question_razor2"></string>
+
+    <string name="question_riki1"></string>
+    <string name="question_riki2"></string>
+
+    <string name="question_rubick1"></string>
+    <string name="question_rubick2"></string>
+
+    <string name="question_sandking1"></string>
+    <string name="question_sandking2"></string>
+
+    <string name="question_shadowdemon1"></string>
+    <string name="question_shadowdemon2"></string>
+
+    <string name="question_shadowfiend1"></string>
+    <string name="question_shadowfiend2"></string>
+
+    <string name="question_shadowshaman1"></string>
+    <string name="question_shadowshaman2"></string>
+
+    <string name="question_silencer1"></string>
+    <string name="question_silencer2"></string>
+
+    <string name="question_skywrath1"></string>
+    <string name="question_skywrath2"></string>
+
+    <string name="question_slardar1"></string>
+    <string name="question_slardar2"></string>
+
+    <string name="question_slark1"></string>
+    <string name="question_slark2"></string>
+
+    <string name="question_sniper1"></string>
+    <string name="question_sniper2"></string>
+
+    <string name="question_spectre1"></string>
+    <string name="question_spectre2"></string>
+
+    <string name="question_spiritbreaker1"></string>
+    <string name="question_spiritbreaker2"></string>
+
+    <string name="question_stormspirit1"></string>
+    <string name="question_stormspirit2"></string>
+
+    <string name="question_sven1"></string>
+    <string name="question_sven2"></string>
+
+    <string name="question_techies1"></string>
+    <string name="question_techies2"></string>
+
+    <string name="question_templar1"></string>
+    <string name="question_templar2"></string>
+
+    <string name="question_terrorblade1"></string>
+    <string name="question_terrorblade2"></string>
+
+    <string name="question_tide1"></string>
+    <string name="question_tide2"></string>
+
+    <string name="question_timber1"></string>
+    <string name="question_timber2"></string>
+
+    <string name="question_tinker1"></string>
+    <string name="question_tinker2"></string>
+
+    <string name="question_tiny1"></string>
+    <string name="question_tiny2"></string>
+
+    <string name="question_treant1"></string>
+    <string name="question_treant2"></string>
+
+    <string name="question_troll1"></string>
+    <string name="question_troll2"></string>
+
+    <string name="question_tusk1"></string>
+    <string name="question_tusk2"></string>
+
+    <string name="question_undying1"></string>
+    <string name="question_undying2"></string>
+
+    <string name="question_ursa1"></string>
+    <string name="question_ursa2"></string>
+
+    <string name="question_vengeful1"></string>
+    <string name="question_vengeful2"></string>
+
+    <string name="question_veno1"></string>
+    <string name="question_veno2"></string>
+
+    <string name="question_viper1"></string>
+    <string name="question_viper2"></string>
+
+    <string name="question_visage1"></string>
+    <string name="question_visage2"></string>
+
+    <string name="question_warlock1"></string>
+    <string name="question_warlock2"></string>
+
+    <string name="question_weaver1"></string>
+    <string name="question_weaver2"></string>
+
+    <string name="question_windranger1"></string>
+    <string name="question_windranger2"></string>
+
+    <string name="question_wyvern1"></string>
+    <string name="question_wyvern2"></string>
+
+    <string name="question_wd1"></string>
+    <string name="question_wd2"></string>
+
+    <string name="question_wk1"></string>
+    <string name="question_wk2"></string>
+
+    <string name="question_zeus1"></string>
+    <string name="question_zeus2"></string>
 </resources>
